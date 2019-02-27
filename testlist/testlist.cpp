@@ -5,7 +5,7 @@
 #include <vector>
 #include <list>;
 #include <iostream>
-#include<iterator>
+#include <iterator>
 
 using namespace std;
 typedef struct info_s
