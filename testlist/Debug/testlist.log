@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  testlist.cpp
+d:\visual studio 2015\projects\testlist\testlist\testlist.cpp(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  testlist.vcxproj -> D:\visual studio 2015\Projects\testlist\Debug\testlist.exe
+  testlist.vcxproj -> D:\visual studio 2015\Projects\testlist\Debug\testlist.pdb (Full PDB)
