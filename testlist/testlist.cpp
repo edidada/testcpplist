@@ -23,17 +23,18 @@ int main()
 	li.push_back("a");
 	li.push_front("c");
 
-	list_t  List;
+	list_t  Listss;
 	int count=1;
 	list_t  List(count);
-	string info = "2";
-	list_t  Lists(count, info);
+	int info = 2;
+	list_t  Lists(count, { info });
 	list_t::iterator iter;
 
 	for (iter = List.begin(); iter != List.end(); iter++)
 	{
 		std::cout<<iter->nNumber<<std::endl;
 	}
+	getchar();
     return 0;
 }
 
